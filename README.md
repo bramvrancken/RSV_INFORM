@@ -1,6 +1,8 @@
 # RSV_INFORM
 
-Data and analysis files used for uncovering the global circulation dynamics of RSV and determining the selective dynamics and key mutations that drive the genetic make-up of RSV populations. Results of this investigation are communicated in 'The Genomic Evolutionary Dynamics and Global Circulation Patterns of Respiratory Syncytial Virus' (pending review). 
+Data and analysis files used for uncovering the global circulation dynamics of RSV and determining the selective dynamics and key mutations that drive the genetic make-up of RSV populations. Results of this investigation are communicated in 'The Genomic Evolutionary Dynamics and Global Circulation Patterns of Respiratory Syncytial Virus' (under review). 
 
- The folder 'GLM' groups files used for the GLM analyses. Likewise, the folder 'RC' groups files used for the robust counting analyses. 
+Alignments in the folder 'Data set compilation' are those used for identyfying the well-supported RSV A and B clades containing all INFORM sequences (RSV.A.aln.wGB.noRC.knownDate.fasta for RSVA and RSV.B.aln.wGB.noRC.knownDate.fasta for RSVB). The cleaned alignments contains 1213 sequences for RSVA and 1223 sequences fro RSVB.
+
+The folder 'GLM' groups files used for the GLM analyses. Likewise, the folder 'RC' groups files used for the robust counting analyses. 
 
