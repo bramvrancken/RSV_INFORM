@@ -6,4 +6,4 @@ Data and analysis files used for uncovering the global circulation dynamics of R
 
 * The folder 'GLM' groups files used for the GLM analyses. Likewise, the folder 'RC' groups files used for the robust counting analyses. 
 
-* Fig.S1.RSV.A.AA.changes.pdf anf Fig.S2.RSV.B.AA.changes.pdf summarize results of the site-specific selection analyses. 
+* Fig.S1.RSV.A.AA.changes.pdf and Fig.S2.RSV.B.AA.changes.pdf summarize results of the site-specific selection analyses. 
