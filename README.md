@@ -8,4 +8,4 @@ Data and analysis files used for uncovering the global circulation dynamics of R
 
 * Fig.S1.RSV.A.AA.changes.pdf and Fig.S2.RSV.B.AA.changes.pdf summarize results of the site-specific selection analyses. 
 
-* RSV.A.sampling.info.txt and RSV.B.sampling.info.txt detail the number of newly generated near full genomes by sampling site as part of this study. For each site, the minimum, maximum and median length of the near full genomes is also given. 
+* RSV.A.sampling.info.txt and RSV.B.sampling.info.txt detail the number of newly generated near full genomes by sampling site. For each site, the minimum, maximum and median length of the near full genomes is also given. 
