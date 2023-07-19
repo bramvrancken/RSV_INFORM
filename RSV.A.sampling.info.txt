@@ -1,0 +1,18 @@
+country;site.nr;city;name;nr.seqs;min.length;max.length;median.length
+Canada;101;Hamilton, Ontario;St. Joseph's Healthcare - Hamilton;51;14942;14944;14944
+Canada;102;Montreal, QC;Montreal Children's Hospital, McGill University Health Centre;43;14872;14944;14944
+SouthAfrica;2701;Soweto;Chris Hani Baragwanath Academic Hospital;112;11337;14944;14943
+Netherlands;3101;Utrecht;UMCU;53;11332;14944;14944
+France;3301;Créteil;ACTIV (Association Clinique et Thérapeutique Infantile du Val de Marne);34;14835;14944;14943.5
+Spain;3401;Santiago de Compostela;Hospital Clínico Universitario de Santiago de Compostela;34;14533;14944;14944
+Finland;3581;Turku;Turku University Hospital;53;14521;14944;14944
+Italy;3901;Padua;Azienda Ospedaliera di Padova;9;14317;14944;14942
+UnitedKingdom;4401;London;King’s College Hospital;16;14941;14944;14944
+Germany;4901;Marburg;Universitätsklinikum Gießen und Marburg GmbH;34;14941;14944;14944
+Mexico;5201;Mitras Centro, Monterrey;Hospital Universitario Dr. Jose Eluterio Gonzalez;1;14944;14944;14944
+Brazil;5501;Porto Alegre, RS;Centro Clinico PUCRS (Pontifical Catholic University of Rio Grande do Sul in Brazil);38;11316;14944;14944
+Australia;6101;NEDLANDS WA, Perth;Perth Children's Hospital ;39;11337;14944;14944
+Russia;701;Saint Petersburg;Smorodintsev Research Institute of Influenza, MoH;22;11711;14944;14944
+Japan;8101;Fukushima city;Fukushima Medical University;46;14505;14944;14944
+SouthKorea;8201;Seoul;Seoul National University Children's Hospital;9;14943;14944;14944
+Taiwan;8861;Taipei City ;Mackay Children's Hospital;10;14944;14944;14944
