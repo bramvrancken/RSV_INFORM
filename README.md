@@ -13,3 +13,5 @@ Data and analysis files used for uncovering the global circulation dynamics of R
 * RSV.A.sampling.info.txt and RSV.B.sampling.info.txt detail the number of newly generated near full genomes by sampling site. For each site, the minimum, maximum and median length of the near full genomes is also given. 
 
 * The Source Data folder contains the source data for figures in the manuscript
+
+ DOI: 10.5281/zenodo.8422698 
