@@ -4,7 +4,9 @@ Data and analysis files used for uncovering the global circulation dynamics of R
 
 * Alignments in the folder 'Data set compilation' are those used for identyfying the well-supported RSV A and B clades containing all INFORM sequences (RSV.A.aln.wGB.noRC.knownDate.fasta for RSVA and RSV.B.aln.wGB.noRC.knownDate.fasta for RSVB). The final alignments used for phylogeographic reconstructions contain 1213 sequences for RSVA and 1223 sequences for RSVB.
 
-* The folder 'GLM' groups files used for the GLM analyses. Likewise, the folders 'RC' and 'Entropy measures' group files used for respectively the robust counting analyses and the summary of the extent of geographic mixing measured as a normalised entropy. 
+* The folder 'GLM' groups the empirical trees distributions used for the GLM analyses as well as predictor data. XMLs for the GLM analyses can be found in the Source Data Folder.
+
+* The folder 'RC' contains the nexus format alignments and XMLs sued for the Robust Counting analyses. 
 
 * Fig.S1.RSV.A.AA.changes.pdf and Fig.S2.RSV.B.AA.changes.pdf summarize results of the site-specific selection analyses. 
 
